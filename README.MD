@@ -1,6 +1,6 @@
 #### Searching Algorithms
 
-1. Linear Search
+1. [Linear Search](./linearSearch)
 2. Binary Search
 3. Jump Search
 4. Interpolation Search
