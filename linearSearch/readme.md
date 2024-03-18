@@ -1,6 +1,6 @@
 [![Back](https://img.shields.io/badge/Back-%F0%9F%91%88-blue)](/)
 
-> In linear search, each element of the array is sequentially checked until the target element is found or the end of the array is reached. If the target element is found, the function returns the index of that element in the array. If the target element is not found in the array, the function returns -1
+- In linear search, each element of the array is sequentially checked until the target element is found or the end of the array is reached. If the target element is found, the function returns the index of that element in the array. If the target element is not found in the array, the function returns -1
 
 <img src='https://sushrutkuchik.files.wordpress.com/2020/05/linear_search.gif?w=438'>
 
