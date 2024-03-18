@@ -18,3 +18,4 @@ if result != -1:
     print("Element", target, "found at index", result)
 else:
     print("Element", target, "not found in the array")
+
